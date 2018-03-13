@@ -1,7 +1,7 @@
 #Project-Information
+此项是对GitHub上的开源项目进行收集和分类整理。
 
-【1】osint-scraper
-        输入人名或邮箱地址, 自动从互联网爬取关于此人的信息。
+
     
     
 
