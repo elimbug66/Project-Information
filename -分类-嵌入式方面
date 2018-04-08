@@ -3,3 +3,7 @@
 【2】firmadyne
       Firmadyne是一款自动化和可裁剪的嵌入式Linux系统固件分析框架。它支持系统固件逆向QEMU嵌入式系统模拟执行。
       使用它模拟路由器固件执行路由器，然后可以基于模拟环境进行路由器漏洞挖掘、渗透攻防。
+
+【3】WiFi Pineapple community packages
+      OpenWRT 软件包，可以直接编译到大菠萝的固件中，这些软件包可直接放在openwrt的源码中，编译固件时可选择这些工具。
+      软件包：libpcap、aircrack-ng、autossh、bully、dsniff、ettercap、hostapd-mana、pyrit、rwaver、shellinabox
