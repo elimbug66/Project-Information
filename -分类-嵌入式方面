@@ -1,9 +1,29 @@
-【1】realtek-mips-sdks   瑞昱(realtek)芯片的SDK 开发环境
+=======================================  固件逆向区  ======================================================
+
+
 
 【2】firmadyne
       Firmadyne是一款自动化和可裁剪的嵌入式Linux系统固件分析框架。它支持系统固件逆向QEMU嵌入式系统模拟执行。
       使用它模拟路由器固件执行路由器，然后可以基于模拟环境进行路由器漏洞挖掘、渗透攻防。
 
-【3】WiFi Pineapple community packages
+
+
+【4】DVRF  ----》路由器漏洞练习靶机
+
+
+===================================== IOT 设备 扫描=================================================
+
+
+
+
+
+
+
+===================================== IOT 固件编译 和 交叉编译环境 ===============================================
+【1】realtek-mips-sdks   瑞昱(realtek)芯片的SDK 开发环境
+
+【2】WiFi Pineapple community packages
       OpenWRT 软件包，可以直接编译到大菠萝的固件中，这些软件包可直接放在openwrt的源码中，编译固件时可选择这些工具。
       软件包：libpcap、aircrack-ng、autossh、bully、dsniff、ettercap、hostapd-mana、pyrit、rwaver、shellinabox
+
+
